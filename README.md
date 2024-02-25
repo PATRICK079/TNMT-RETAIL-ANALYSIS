@@ -1,6 +1,8 @@
 # TNMT-RETAIL-ANALYSIS
 
-![OK](https://github.com/PATRICK079/TNMT-RETAIL-ANALYSIS/assets/157173680/6fa4e185-2ce2-4235-bfd4-3516465fbe1f)
+
+<img width="1156" alt="Screen Shot 2024-02-25 at 22 46 29" src="https://github.com/PATRICK079/TNMT-RETAIL-ANALYSIS/assets/157173680/b8baca19-8683-47d9-b9e0-efb550bed3ef">
+
 
 # INTRODUCTION
 
@@ -58,9 +60,9 @@ The following actions were taken to prepare the data for analysis.
 • Additionally, I ensured that the appropriate data type was used to represent each column. 
 
 
+<img width="863" alt="Screen Shot 2024-02-25 at 22 48 09" src="https://github.com/PATRICK079/TNMT-RETAIL-ANALYSIS/assets/157173680/d50ed6c6-137b-4884-bcdf-b076dcd7ac1f">
 
 
-<img width="993" alt="Screen Shot 2024-02-25 at 19 49 59" src="https://github.com/PATRICK079/TNMT-RETAIL-ANALYSIS/assets/157173680/799f1cf9-f9a9-4efd-af66-fa2ac699700f">
 
 
 
