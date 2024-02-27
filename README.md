@@ -89,11 +89,14 @@ Based on the business questions posed earlier, conclusions and insights were acq
 1. What is the top selling product and what  product category drives the highest profit?
 
 
-<img width="798" alt="Screen Shot 2024-02-25 at 21 09 42" src="https://github.com/PATRICK079/TNMT-RETAIL-ANALYSIS/assets/157173680/6ed989c7-b1e6-4f60-bcf8-f13862df5400">
+<img width="861" alt="Screen Shot 2024-02-27 at 20 49 58" src="https://github.com/PATRICK079/TNMT-RETAIL-ANALYSIS/assets/157173680/b20d6ad3-459f-430b-8315-4d318c6c893f">
 
 
 
-<img width="806" alt="Screen Shot 2024-02-25 at 21 13 57" src="https://github.com/PATRICK079/TNMT-RETAIL-ANALYSIS/assets/157173680/3a188a6f-dc4b-4c69-90c6-b5556ac9e413">
+
+<img width="867" alt="Screen Shot 2024-02-27 at 20 50 45" src="https://github.com/PATRICK079/TNMT-RETAIL-ANALYSIS/assets/157173680/39d21de8-1c42-4581-8abd-be720a0f939e">
+
+
 
 ### insights/findings
 
@@ -133,7 +136,10 @@ Based on the business questions posed earlier, conclusions and insights were acq
   3. Which channel is the best at selling?
 
 
-<img width="330" alt="Screen Shot 2024-02-25 at 21 53 29" src="https://github.com/PATRICK079/TNMT-RETAIL-ANALYSIS/assets/157173680/2198dbe7-2287-47ab-b786-ea7758fca688">
+
+<img width="584" alt="Screen Shot 2024-02-27 at 20 56 18" src="https://github.com/PATRICK079/TNMT-RETAIL-ANALYSIS/assets/157173680/432de5ef-f7d0-455a-b72d-8f39d624598c">
+
+
 
 ### insights/findings
 
@@ -172,7 +178,9 @@ opportunities for enhancement.
 
 5. • What was the amount of sales in the most successful month?
 
-<img width="1033" alt="Screen Shot 2024-02-25 at 22 17 20" src="https://github.com/PATRICK079/TNMT-RETAIL-ANALYSIS/assets/157173680/3b7a3366-06dd-40c7-9cb2-061c5069755d">
+
+<img width="1135" alt="Screen Shot 2024-02-27 at 20 53 38" src="https://github.com/PATRICK079/TNMT-RETAIL-ANALYSIS/assets/157173680/17f45e3d-32f5-43e6-9dd5-0e40d96f694c">
+
 
 ### insights/findings
 
@@ -182,8 +190,11 @@ opportunities for enhancement.
 
 6. Who generated the greatest revenue for the company in sales?
 
+
+
+<img width="537" alt="Screen Shot 2024-02-27 at 20 55 25" src="https://github.com/PATRICK079/TNMT-RETAIL-ANALYSIS/assets/157173680/050cea73-c69b-474e-b02d-9416366afa54">
+
    
- <img width="626" alt="Screen Shot 2024-02-25 at 22 31 51" src="https://github.com/PATRICK079/TNMT-RETAIL-ANALYSIS/assets/157173680/edc27f36-f098-4dc4-9439-85c2b2161ed6">
 
     
 ### insights/findings
@@ -193,7 +204,10 @@ With $1,856.2 million in sales, Nicholas Cunningham achieved the highest amount.
 
 # VISUALIZATION
 
-<img width="1389" alt="Screen Shot 2024-02-25 at 18 23 01" src="https://github.com/PATRICK079/TNMT-RETAIL-ANALYSIS/assets/157173680/ba7ceafe-03e1-4512-9190-1deb2ac0d48e">
 
 
-  Interract with my dashboard here https://1drv.ms/x/s!Ar7Ar6ZEDjjugTBDSD2P8Mu7WNTi?e=0Wpjqa
+<img width="1269" alt="Screen Shot 2024-02-27 at 20 58 53" src="https://github.com/PATRICK079/TNMT-RETAIL-ANALYSIS/assets/157173680/393b94d5-695c-4f23-ae80-b84f04375f76">
+
+
+
+  Interract with my dashboard here https://1drv.ms/x/s!Ar7Ar6ZEDjjugUnf5glNRE2P0C9W?e=Tll6XI
